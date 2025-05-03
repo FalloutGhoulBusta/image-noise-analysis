@@ -67,14 +67,6 @@ The script will:
 - `image_noise_generator.py`: Generates noise analysis for a single image
 - `image_noise_estimater.py`: Core noise estimation functionality
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the MIT License.
-
 ## Author
 
 Created by FalloutGhoulBusta
