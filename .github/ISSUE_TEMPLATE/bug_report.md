@@ -2,6 +2,7 @@
 name: Bug report
 description: Report a bug in the project
 title: 'Bug: '
+about: 'Use this template to report a bug in the Image Noise Analysis project'
 labels: bug
 assignees: ''
 

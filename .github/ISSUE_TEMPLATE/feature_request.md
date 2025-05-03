@@ -2,6 +2,7 @@
 name: Feature request
 description: Request a new feature
 title: 'Feature: '
+about: 'Use this template to request a new feature for the Image Noise Analysis project'
 labels: enhancement
 assignees: ''
 
